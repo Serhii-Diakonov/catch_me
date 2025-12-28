@@ -1,9 +1,9 @@
 # catch_me
-Игра "Ну, погоди" (Волк ловит яица), написанная на Java.
-Для отрисовки графики были использованы простые спрайты.
-Игра упакована в Executable JAR.
-Для запуска jar нужен JDK-15 и выше.
+Game "Catch me" ("Ну, погоди!") written on Java in scope of educational university project.
+For painting simple sprites were used.
 
+Stack: Swing + AWT
+Executable JAR created and can be launched if JRE/JDK 15+ installed
 
 ![image](https://user-images.githubusercontent.com/72015351/172027450-f20952bb-c1d9-4090-bebe-d54ea2e7ad23.png)
 
